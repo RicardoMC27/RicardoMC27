@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola! Soy Ricardo Mascarell👋
+Soy un desarrollador Full‑Stack junior apasionado por crear aplicaciones web modernas.Me especializo en full-stack (front-end y back-end) y me encanta llevar una idea del diseño al despliegue.
 
-<!--
-**RicardoMC27/RicardoMC27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Habilidades
+- **Lenguajes:** HTML, CSS, JavaScript/TypeScript, PHP, SQL
+- **Frameworks:** React, Next.js, Node.js, Laravel
+- **Bases de datos:** MySQL, PostgreSQL
+- **Herramientas:** Git, Prisma, Tailwind, Docker
 
-Here are some ideas to get you started:
+## 🧠 Proyectos destacados
+**SmartRestaurant (MVP)** — ( [Repo](**SmartRestaurant (MVP)** — ( [Demo](enlace-demo) / [Repo](https://github.com/usuario/smartrestaurant)) 
+  Carta digital con QR por mesa y flujo de **pedidos en tiempo real**. El cliente escanea, ve la carta, añade al carrito y envía; el panel de cocina/admin **cambia estados** (pendiente → en curso → servido). Incluye **CRUD** básico de productos/categorías y despliegue sencillo.  
+  _Stack:_ **Next.js**, **TypeScript**, **Tailwind**, **Prisma** (SQLite en dev / Postgres en prod), **API Routes**, **Vercel**.) )  
+  Carta digital con QR por mesa y flujo de **pedidos en tiempo real**. El cliente escanea, ve la carta, añade al carrito y envía; el panel de cocina/admin **cambia estados** (pendiente → en curso → servido). Incluye **CRUD** básico de productos/categorías y despliegue sencillo.  
+  _Stack:_ **Next.js**, **TypeScript**, **Tailwind**, **Prisma** (SQLite en dev / Postgres en prod), **API Routes**, **Vercel**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Logros y certificaciones
+- **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**
+- - Curso de React avanzado completado.
+
+## 🎨 Sobre mí
+En mi tiempo libre disfruto [hobby 1], [hobby 2] y explorar nuevas tecnologías. Me gusta añadir creatividad a mis proyectos con emojis 😊 y diseños atractivos.
