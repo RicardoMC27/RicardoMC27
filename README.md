@@ -93,22 +93,19 @@ Mostrar tu actividad y lenguajes más usados transmite constancia y dominio
 técnico. Estas tarjetas se generan de forma dinámica y se actualizan
 automáticamente:
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RicardoMC27&show_icons=true&theme=radical)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMC27&layout=compact&theme=radical)
 
-![Racha de contribuciones](https://streak-stats.demolab.com/?user=TuUsuario&theme=radical)
-
-> Sustituye `TuUsuario` por tu nombre de usuario de GitHub para activar estas
-> estadísticas.
+![Racha de contribuciones](https://streak-stats.demolab.com/?user=RicardoMC27&theme=radical)
 
 ## 💬 Contacto y redes
 
 Me encanta colaborar en proyectos open‑source y compartir conocimientos. Si
 quieres ponerte en contacto conmigo, puedes hacerlo a través de estos medios:
 
-* ✉️ **Email:** [tu correo electrónico]
-* 💼 **LinkedIn:** [tu perfil de LinkedIn]
+* ✉️ **Email:** ricardomascarell27@gmail.com
+* 💼 **LinkedIn:** www.linkedin.com/in/ricardo-mascarell-del-cerro-2415b61ba
 * 🌐 **Portfolio personal:** [tu sitio web/portfolio]
 
 ## 🗒️ Notas finales
