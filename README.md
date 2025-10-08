@@ -7,7 +7,7 @@ inmediatamente tu nombre y rol profesional. Un buen encabezado atrae la
 atención del visitante y crea una impresión profesional.
 -->
 
-![Banner personal](ruta/al/banner.png)
+![Banner personal](./banner.png)
 
 ## 🚀 Sobre mí
 
