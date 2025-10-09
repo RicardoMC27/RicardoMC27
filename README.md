@@ -69,14 +69,6 @@ despliegue en Vercel.
 * Gestionar el ciclo de vida del pedido y sincronizar el panel de cocina con el
   estado del cliente.
 
-### 📦 [Nombre del segundo proyecto]
-
-Breve descripción del proyecto. Explica qué problema resuelve, las
-principales funcionalidades y tu rol en el desarrollo. Incluye enlaces a la
-demo y al repositorio.
-
-*Stack:* [tecnologías principales].
-
 > **Consejo:** Presentar los proyectos con explicaciones claras sobre lo que
 > hacen, por qué son interesantes y qué tecnologías utilizaste ayuda a que
 > los visitantes entiendan tu aporte.
