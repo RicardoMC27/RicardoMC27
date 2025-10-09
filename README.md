@@ -48,9 +48,10 @@ descripción, enlaces y tecnologías empleadas. Aquí encontrarás los repositor
 de los que más orgulloso estoy:
 
 ### 📱 SmartRestaurant (MVP)
-
+<!-- 
 **[Demo en vivo](https://smartrestaurant.example.com)** —  
 **[Repositorio](https://github.com/usuario/smartrestaurant)**
+-->
 
 Aplicación web para restaurantes con carta digital y flujo de pedidos en tiempo
 real. Cada mesa tiene un código QR que permite al cliente acceder a la carta,
