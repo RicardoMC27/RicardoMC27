@@ -98,8 +98,7 @@ quieres ponerte en contacto conmigo, puedes hacerlo a través de estos medios:
 
 * ✉️ **Email:** ricardomascarell27@gmail.com
 * 💼 **LinkedIn:** www.linkedin.com/in/ricardo-mascarell-del-cerro-2415b61ba
-* 🌐 **Portfolio personal:** [tu sitio web/portfolio]
-
+* 🌐 **Portfolio personal:** Pendiente
 ## 🗒️ Notas finales
 
 * Mantengo este README actualizado con mis proyectos y avances más recientes.
